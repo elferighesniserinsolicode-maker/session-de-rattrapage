@@ -30,6 +30,7 @@ if (isset($_POST['ok'])){
     }
 
 }
+?>
 
 
 
@@ -42,4 +43,5 @@ if (isset($_POST['ok'])){
 
 
 </body>
+
 </html>
